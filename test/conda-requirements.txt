@@ -3,3 +3,4 @@ numpy
 bitarray
 reportlab
 pandas
+-c conda-forge gdal
