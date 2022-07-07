@@ -3,3 +3,4 @@ numpy
 bitarray
 reportlab
 pandas
+gdal=3.4.2
